@@ -44,14 +44,14 @@ nav
 {
     font-family: "Bebas Neue", sans-serif;
     font-size: clamp(0.8rem, 4vw + 1rem, 3rem);
-    letter-spacing: 0.1rem;
+    letter-spacing: 0
     font-weight: 500;
-    padding-left: 10px;
+    padding-left: 1
     color: #FFFFFF;
 
 }
 
-.logo h1 .gym 
+.logo h1 .gym
 {
     margin-left: 3px;
     color: #E6B800;

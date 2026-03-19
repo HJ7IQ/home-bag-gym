@@ -717,11 +717,11 @@ svg
 {
     padding-top: 12px;
     padding-left: 20px;
-    
+    background-color: #000000;
 }
 .qq h4 
 {
-    color: #E6B800;
+    color: #ffffff;
     font-size: 1.8rem;
     
 }

@@ -602,7 +602,7 @@ svg
 {
     height: 100%;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #000000;
     padding-top: 15px;
     padding-left: 40px;
     padding-bottom: 20px;
@@ -613,8 +613,8 @@ svg
 }
 .qq h4 
 {
-    color: #E6B800;
-    font-size: 1.8rem;
+    color: #ffffff;
+    font-size: 1.5rem;
     
 }
 
@@ -697,12 +697,13 @@ svg
      display: flex;
     align-items: center;
     justify-content: center;
-
+    padding: 20px 0;
 }
 .home-img img 
 {
-    max-width: 100%;
+    max-width: 400px;
     height: auto;
+    
 }
 }
 
